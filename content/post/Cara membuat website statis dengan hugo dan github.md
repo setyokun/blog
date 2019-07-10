@@ -21,3 +21,5 @@ draft: false
 14 . Push to submodule repo dengan cara >> `hugo` >> `cd public` >> `git add .` >> `git commit -m "your message"` >> `git push origin master`   
 15 . Tunggu beberapa menit, kemudian buka github-pages yang kam buat tadi daaaaan TADAA, udah jadi deh :)  
 16 . Agar lebih mudah untuk post content kamu perlu menambahkan `deploy.sh` (file confignya menyusul), dan cara penggunaanya adalah dengan cara `./deploy.sh "your message"`. simple kan :)  
+
+Thanks :)
