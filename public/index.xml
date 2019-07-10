@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setyokun Note&#39;s</title>
+    <link>https://setyokun.github.io/</link>
+    <description>Recent content on Setyokun Note&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Setyokun</copyright>
+    <lastBuildDate>Wed, 10 Jul 2019 11:02:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://setyokun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara update APK</title>
+      <link>https://setyokun.github.io/post/cara/</link>
+      <pubDate>Wed, 10 Jul 2019 11:02:18 +0700</pubDate>
+      
+      <guid>https://setyokun.github.io/post/cara/</guid>
+      <description>#COMINGSOON!</description>
+    </item>
+    
+    <item>
+      <title>Cara membuat website statis dengan hugo dan github</title>
+      <link>https://setyokun.github.io/post/cara-membuat-website-statis-dengan-hugo-dan-github/</link>
+      <pubDate>Wed, 10 Jul 2019 06:12:35 +0700</pubDate>
+      
+      <guid>https://setyokun.github.io/post/cara-membuat-website-statis-dengan-hugo-dan-github/</guid>
+      <description>1 . Download dan Install Hugo versi terbaru disini Hugo Release.
+2 . Gunakan perintah hugo new site &amp;lt;direktori&amp;gt; untuk membuat site baru yang akan digenerate oleh hugo
+3 . Ketikkan git init untuk menambahkan git pada direktori yang udah digenerate oleh hugo tadi
+4 . Buat Repositori di github dengan nama blog
+5 . Tambahkan remote dengan perintah git remote add origin &amp;lt;urlRepositoriBlog&amp;gt; di direktori yang udah digenerate oleh hugo tadi</description>
+    </item>
+    
+    <item>
+      <title>Kemarin</title>
+      <link>https://setyokun.github.io/post/kemarin/</link>
+      <pubDate>Mon, 08 Jul 2019 23:22:09 +0700</pubDate>
+      
+      <guid>https://setyokun.github.io/post/kemarin/</guid>
+      <description>#Kemarin
+tak hanya kamu yang dilupakan kemarinpun juga dilupakan</description>
+    </item>
+    
+    <item>
+      <title>Docker - command</title>
+      <link>https://setyokun.github.io/post/docker-command/</link>
+      <pubDate>Thu, 04 Jul 2019 16:08:02 +0700</pubDate>
+      
+      <guid>https://setyokun.github.io/post/docker-command/</guid>
+      <description>##Glosarium Perintah Docker Container - from @youtube (programmer zaman now) #pakboi
+Resume by Setyokun&amp;rsquo;s
+docker pull mongo:4.1
+- Perintah untuk mengambil images dari docker hub (mongo itu nama imagesnya dan 4.1 itu versionnya) docker images
+- Perintah untuk menampilkan images yang sudah terinstall/ter-pull di local/pc kita docker container ls
+- Perintah untuk melihat container yang sedang berjalan/running docker container ls --all
+- Perintah untuk melihat semua container yang sedang berjalan/running ataupun yang tidak berjalan/running docker container create mongo:4.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://setyokun.github.io/about/</link>
+      <pubDate>Thu, 04 Jul 2019 16:08:02 +0700</pubDate>
+      
+      <guid>https://setyokun.github.io/about/</guid>
+      <description>#Setyokun-Note&amp;rsquo;s
+**Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun Setyokun **
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. </description>
+    </item>
+    
+  </channel>
+</rss>
