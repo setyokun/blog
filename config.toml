@@ -60,7 +60,7 @@ pygmentsUseClasses = true
 	# Color of your website's accent
 	colorTheme = "#000000"
 	# Maximum number of item in Latest Posts or Works
-	latestCount = 3
+	latestCount = 100
 	# Path to site's favicon image
 	faviconImg = ""
 	# Date format in item list
